@@ -120,7 +120,7 @@ The Streamlit application loads the saved models and evaluates uploaded data. It
 
 ## 9. Streamlit Application
 
-**Live Application Link:** PENDING DEPLOYMENT
+**Live Application Link:** https://ml-assignment-2-9yxym86ula3ipdrx7wexgu.streamlit.app/
 
 The application allows users to select a classification model, upload a test CSV file, and view evaluation metrics, a confusion matrix, and a classification report.
 
