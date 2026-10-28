@@ -116,11 +116,11 @@ The Streamlit application loads the saved models and evaluates uploaded data. It
 
 ## 8. GitHub Repository
 
-**Repository Link:** Add your GitHub repository URL here.
+**Repository Link:** https://github.com/2026AJ05765/ML-Assignment-2
 
 ## 9. Streamlit Application
 
-**Live Application Link:** Add your deployed Streamlit Community Cloud URL here.
+**Live Application Link:** PENDING DEPLOYMENT
 
 The application allows users to select a classification model, upload a test CSV file, and view evaluation metrics, a confusion matrix, and a classification report.
 
